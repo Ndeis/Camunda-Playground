@@ -44,11 +44,12 @@ A customer, referred to as an owner, has made an aircraft upgrade request. This 
 ## 6. Example Upgrade Alternatives Response
 Account: 51156 | Request: req-1345 | Flight Date: 2026-09-24 | Requested Aircraft: GL5000/GL5500
 
-The GL5000/GL5500 on September 24th is flagged as "Director Approval Only" in the availability matrix, meaning it cannot be approved on the spot and requires a human escalation flow (Rule 2.4). Per the operational process, alternative upgrade options are being presented.
+The GL5000/GL5500 on September 24th is flagged as "Director Approval Only" in the availability matrix, meaning it cannot be approved on the spot and requires a human escalation flow (Rule 2.4). Per the operational process, alternative upgrade options are being presented below.
 
 September 24th Matrix Status for alternatives:
 
-EMB-545: ✅ Upgrade Approved (best available status)
-GL7500/GL8000: 📋 Submit for Approval (larger Global family aircraft)
-GL6000: 📋 Submit for Approval (comparable large-cabin aircraft)
+Aircraft	Status
+EMB-545	✅ Upgrade Approved (best available)
+GL7500/GL8000	📋 Submit for Approval
+GL6000	📋 Submit for Approval
 Rules applied: 2.4, 5.1, 5.2, 5.3
