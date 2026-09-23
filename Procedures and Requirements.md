@@ -9,10 +9,10 @@ This procedure applies to all aircraft upgrade requests.
 
 ## 2. The Upgrade Matrix
 
-2.1 "Approved": Upgrade requests for single and multiple aircraft are approved on the spot. Color: Green 🟩  
-2.2 "Upgrade Approved": Single aircraft upgrade requests may be approved on the spot. For multiple aircraft requests - the smallest mission-capable aircraft can be guaranteed on the spot. Requests for any larger aircraft must be submitted via the Scheduling Request Form. Color: Yellow 🟨  
-2.3 "Submit for Approval": An upgrade request form must be submitted to scheduling. Color: Red 🟥  
-2.4 "Director Approval Required": Denied. Human flow. Color: Black ⬛
+2.1 "Approved 🟩": Upgrade requests for single and multiple aircraft are approved on the spot. Color: Green   
+2.2 "Upgrade Approved 🟨": Single aircraft upgrade requests may be approved on the spot. For multiple aircraft requests - the smallest mission-capable aircraft can be guaranteed on the spot. Requests for any larger aircraft must be submitted via the Scheduling Request Form. Color: Yellow   
+2.3 "Submit for Approval 🟥": An upgrade request form must be submitted to scheduling. Color: Red   
+2.4 "Director Approval Required ⬛": Denied. Human flow. Color: Black
 
 ---
 
@@ -35,9 +35,10 @@ A customer, referred to as an owner, has made an aircraft upgrade request. This 
 ## 5. Agent Behavior Rules (Simplified)
 
 5.1 Agent must select one path only based on upgrade request. 
-5.2 Agent may make request recommentations a maximum of two times before ESCALATED.  
+5.2 Agent may make request recommendations a maximum of two times before ESCALATED.  
 5.3 Every outcome must log the rule numbers used.  
-5.4 Agent must never default to request approval.
+5.4 Agent should consider upgrade options on the requested day as well as options on all other days present in the matrix.
+5.5 Agent must never default to request approval.
 
 ---
 
