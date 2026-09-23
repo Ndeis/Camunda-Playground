@@ -9,10 +9,10 @@ This procedure applies to all aircraft upgrade requests.
 
 ## 2. The Upgrade Matrix
 
-2.1 "Approved": Upgrade requests for single and multiple aircraft are approved on the spot. 
-2.2 "Upgrade Approved": Single aircraft upgrade requests may be approved on the spot. For multiple aircraft requests - the smallest mission-capable aircraft can be guaranteed on the spot. Requests for any larger aircraft must be submitted via the Scheduling Request Form.  
-2.3 "Submit for Approval": An upgrade request form must be submitted to scheduling.
-2.4 "Director Approval Required": Denied. Human flow.
+2.1 "Approved": Upgrade requests for single and multiple aircraft are approved on the spot. Color: Green 🟩  
+2.2 "Upgrade Approved": Single aircraft upgrade requests may be approved on the spot. For multiple aircraft requests - the smallest mission-capable aircraft can be guaranteed on the spot. Requests for any larger aircraft must be submitted via the Scheduling Request Form. Color: Yellow 🟨  
+2.3 "Submit for Approval": An upgrade request form must be submitted to scheduling. Color: Red 🟥  
+2.4 "Director Approval Required": Denied. Human flow. Color: Black ⬛
 
 ---
 
