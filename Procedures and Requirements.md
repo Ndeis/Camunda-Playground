@@ -35,6 +35,7 @@ A customer, referred to as an owner, has made an aircraft upgrade request. This 
 ## 5. Agent Behavior Rules (Simplified)
 
 5.1 Agent must select one path only based on upgrade request. 
+5.2 Agent should reach out to a human user anytime it needs clarification, information, or context.
 5.2 Agent may make request recommendations a maximum of two times before ESCALATED.  
 5.3 Every outcome must log the rule numbers used.  
 5.4 Agent should consider upgrade options on the requested day as well as options on all other days present in the matrix.
