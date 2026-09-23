@@ -39,5 +39,16 @@ A customer, referred to as an owner, has made an aircraft upgrade request. This 
 5.3 Every outcome must log the rule numbers used.  
 5.4 Agent must never default to request approval.
 
-
 ---
+
+## 6. Example Upgrade Alternatives Response
+Account: 51156 | Request: req-1345 | Flight Date: 2026-09-24 | Requested Aircraft: GL5000/GL5500
+
+The GL5000/GL5500 on September 24th is flagged as "Director Approval Only" in the availability matrix, meaning it cannot be approved on the spot and requires a human escalation flow (Rule 2.4). Per the operational process, alternative upgrade options are being presented.
+
+September 24th Matrix Status for alternatives:
+
+EMB-545: ✅ Upgrade Approved (best available status)
+GL7500/GL8000: 📋 Submit for Approval (larger Global family aircraft)
+GL6000: 📋 Submit for Approval (comparable large-cabin aircraft)
+Rules applied: 2.4, 5.1, 5.2, 5.3
