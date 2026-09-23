@@ -49,8 +49,10 @@ The GL5000/GL5500 on September 24th is flagged as "Director Approval Only" in th
 
 September 24th Matrix Status for alternatives:
 
-| Aircraft | Status | Date
-| EMB-545	| Upgrade Approved (best available) | 09/23/2026
-| GL7500/GL8000	| Submit for Approval | 09/23/2026
-|GL6000	| Submit for Approval | 09/24/2026
+| Aircraft | Status | Date |
+| :---- | :---- | :---- |
+| EMB-545	| Upgrade Approved (best available) | 09/23/2026 |
+| GL7500/GL8000	| Submit for Approval | 09/23/2026 |
+|GL6000	| Submit for Approval | 09/24/2026 |  
+
 Rules applied: 2.4, 5.1, 5.2, 5.3
