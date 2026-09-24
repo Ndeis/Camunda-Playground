@@ -28,7 +28,7 @@ A customer, referred to as an owner, has made an aircraft upgrade request. This 
 | APPROVED | Application approved | The requested aircraft is approved for use as an upgrade. |
 | PENDING_INFORMATION | Awaiting further information from human-in-the-loop | Missing or invalid information |
 | ESCALATED | Human review required | Tool/data unavailable, ambiguous result, or risk flag |
-| DENIED | Request denied | No available capacity or human-in-the-loop has chosen to deny the request |
+| DECLINED | Request declined| No available capacity or human-in-the-loop has chosen to decline the request |
 
 ---
 
